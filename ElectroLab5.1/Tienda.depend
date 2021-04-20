@@ -1,0 +1,6125 @@
+# depslib dependency file v1.0
+1603315510 source:b:\mis cosas\tsp\2 cuatrimestre\lab 2\proyecto final\tienda\admin.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Admin.h"
+
+1603377925 b:\mis cosas\tsp\2 cuatrimestre\lab 2\proyecto final\tienda\admin.h
+
+1603380471 source:b:\mis cosas\tsp\2 cuatrimestre\lab 2\proyecto final\tienda\celular.cpp
+
+1603318135 source:b:\mis cosas\tsp\2 cuatrimestre\lab 2\proyecto final\tienda\cliente.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Cliente.h"
+
+1603382344 b:\mis cosas\tsp\2 cuatrimestre\lab 2\proyecto final\tienda\cliente.h
+
+1603408002 source:b:\mis cosas\tsp\2 cuatrimestre\lab 2\proyecto final\tienda\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+
+1603379581 source:b:\mis cosas\tsp\2 cuatrimestre\lab 2\proyecto final\tienda\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Vendedor.h"
+
+1603382344 b:\mis cosas\tsp\2 cuatrimestre\lab 2\proyecto final\tienda\vendedor.h
+	"funciones.h"
+
+1603407911 b:\mis cosas\tsp\2 cuatrimestre\lab 2\proyecto final\tienda\funciones.h
+	<windows.h>
+
+1603408203 source:b:\mis cosas\tsp\2 cuatrimestre\lab 2\proyecto final\tienda\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+
+1603407072 b:\mis cosas\tsp\2 cuatrimestre\lab 2\proyecto final\tienda\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1603315510 source:c:\users\mauro\documents\github\electrolab\admin.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Admin.h"
+
+1603377925 c:\users\mauro\documents\github\electrolab\admin.h
+
+1605534188 source:c:\users\mauro\documents\github\electrolab\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+
+1603672689 source:c:\users\mauro\documents\github\electrolab\cliente.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Cliente.h"
+	"rlutil.h"
+
+1603672368 c:\users\mauro\documents\github\electrolab\cliente.h
+
+1605534118 source:c:\users\mauro\documents\github\electrolab\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+
+1605534345 c:\users\mauro\documents\github\electrolab\funciones.h
+	<windows.h>
+
+1604273840 c:\users\mauro\documents\github\electrolab\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1605533639 source:c:\users\mauro\documents\github\electrolab\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+
+1605533639 source:c:\users\mauro\documents\github\electrolab\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+
+1604718382 c:\users\mauro\documents\github\electrolab\vendedor.h
+	"Fecha.h"
+
+1605533639 c:\users\mauro\documents\github\electrolab\celular.h
+
+1604373922 source:c:\users\coti\desktop\electrolab\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"Fecha.h"
+	"rlutil.h"
+
+1604351049 c:\users\coti\desktop\electrolab\fecha.h
+
+1604273840 source:c:\users\coti\desktop\electrolab\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+
+1604374553 c:\users\coti\desktop\electrolab\vendedor.h
+	"Fecha.h"
+
+1604375618 c:\users\coti\desktop\electrolab\funciones.h
+	<windows.h>
+
+1604273840 c:\users\coti\desktop\electrolab\celular.h
+
+1604273840 c:\users\coti\desktop\electrolab\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1604375437 source:c:\users\coti\desktop\electrolab\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+
+1604375602 source:c:\users\coti\desktop\electrolab\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+
+1604281174 source:c:\users\coti\desktop\electrolab\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+
+1603672616 source:c:\users\coti\desktop\electrolabtrabajando\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+
+1604179111 c:\users\coti\desktop\electrolabtrabajando\vendedor.h
+	"funciones.h"
+
+1604183434 c:\users\coti\desktop\electrolabtrabajando\funciones.h
+	<windows.h>
+
+1603772185 c:\users\coti\desktop\electrolabtrabajando\celular.h
+
+1603407072 c:\users\coti\desktop\electrolabtrabajando\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1604167692 source:c:\users\coti\desktop\electrolabtrabajando\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"Fecha.h"
+
+1604167257 c:\users\coti\desktop\electrolabtrabajando\fecha.h
+
+1604183279 source:c:\users\coti\desktop\electrolabtrabajando\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+
+1604186502 source:c:\users\coti\desktop\electrolabtrabajando\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+
+1604175273 source:c:\users\coti\desktop\electrolabtrabajando\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"detalleVenta.h"
+
+1604170732 c:\users\coti\desktop\electrolabtrabajando\detalleventa.h
+
+1604183204 source:c:\users\coti\desktop\electrolabtrabajando\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Vendedor.h"
+
+1604170732 source:c:\users\coti\desktop\electrolabtrabajando\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"ventas.h"
+
+1604175354 c:\users\coti\desktop\electrolabtrabajando\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1604273840 source:b:\descargas\electrolab1.3-20201101t233601z-001\electrolab1.3\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+
+1604273840 b:\descargas\electrolab1.3-20201101t233601z-001\electrolab1.3\vendedor.h
+	"funciones.h"
+
+1604273839 b:\descargas\electrolab1.3-20201101t233601z-001\electrolab1.3\funciones.h
+	<windows.h>
+
+1604273840 b:\descargas\electrolab1.3-20201101t233601z-001\electrolab1.3\celular.h
+
+1604273840 b:\descargas\electrolab1.3-20201101t233601z-001\electrolab1.3\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1604273840 source:b:\descargas\electrolab1.3-20201101t233601z-001\electrolab1.3\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"detalleVenta.h"
+
+1604273839 b:\descargas\electrolab1.3-20201101t233601z-001\electrolab1.3\detalleventa.h
+
+1604273839 source:b:\descargas\electrolab1.3-20201101t233601z-001\electrolab1.3\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"Fecha.h"
+
+1604273840 b:\descargas\electrolab1.3-20201101t233601z-001\electrolab1.3\fecha.h
+
+1604273839 source:b:\descargas\electrolab1.3-20201101t233601z-001\electrolab1.3\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+
+1604273839 source:b:\descargas\electrolab1.3-20201101t233601z-001\electrolab1.3\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+
+1604273840 source:b:\descargas\electrolab1.3-20201101t233601z-001\electrolab1.3\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"ventas.h"
+
+1604273839 b:\descargas\electrolab1.3-20201101t233601z-001\electrolab1.3\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1605494593 source:c:\users\mauro\documents\github\electrolab\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"detalleVenta.h"
+	"funciones.h"
+
+1605494593 c:\users\mauro\documents\github\electrolab\detalleventa.h
+
+1604718381 source:c:\users\mauro\documents\github\electrolab\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"Fecha.h"
+	"rlutil.h"
+
+1604376392 c:\users\mauro\documents\github\electrolab\fecha.h
+
+1605536442 source:c:\users\mauro\documents\github\electrolab\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"ventas.h"
+	"detalleVenta.h"
+	"Fecha.h"
+
+1605494593 c:\users\mauro\documents\github\electrolab\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1604273840 source:c:\users\coti\desktop\electrolab\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"detalleVenta.h"
+
+1604273839 c:\users\coti\desktop\electrolab\detalleventa.h
+
+1604273840 source:c:\users\coti\desktop\electrolab\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"ventas.h"
+
+1604273839 c:\users\coti\desktop\electrolab\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1605158066 source:c:\users\coti\documents\github\electrolab\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+
+1604609317 c:\users\coti\documents\github\electrolab\vendedor.h
+	"Fecha.h"
+
+1604376392 c:\users\coti\documents\github\electrolab\fecha.h
+
+1605157991 c:\users\coti\documents\github\electrolab\celular.h
+
+1604273840 c:\users\coti\documents\github\electrolab\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1605154552 source:c:\users\coti\documents\github\electrolab\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"detalleVenta.h"
+
+1605117745 c:\users\coti\documents\github\electrolab\detalleventa.h
+
+1604696758 source:c:\users\coti\documents\github\electrolab\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"Fecha.h"
+	"rlutil.h"
+
+1605117746 source:c:\users\coti\documents\github\electrolab\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"ventas.h"
+
+1604376392 c:\users\coti\documents\github\electrolab\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1605158432 source:c:\users\coti\documents\github\electrolab\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"conio.h"
+
+1605158291 c:\users\coti\documents\github\electrolab\funciones.h
+	<windows.h>
+
+1605158432 source:c:\users\coti\documents\github\electrolab\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+
+1605157768 source:c:\users\coti\documents\github\electrolab\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+
+1604376392 source:c:\users\mauro\documents\github\electrolab1\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+
+1604376392 c:\users\mauro\documents\github\electrolab1\vendedor.h
+	"Fecha.h"
+
+1604376392 c:\users\mauro\documents\github\electrolab1\fecha.h
+
+1604376392 c:\users\mauro\documents\github\electrolab1\celular.h
+
+1604273840 c:\users\mauro\documents\github\electrolab1\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1604376392 source:c:\users\mauro\documents\github\electrolab1\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"detalleVenta.h"
+
+1604376392 c:\users\mauro\documents\github\electrolab1\detalleventa.h
+
+1604376392 source:c:\users\mauro\documents\github\electrolab1\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"Fecha.h"
+	"rlutil.h"
+
+1604418136 source:c:\users\mauro\documents\github\electrolab1\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+
+1604418181 c:\users\mauro\documents\github\electrolab1\funciones.h
+	<windows.h>
+
+1604418078 source:c:\users\mauro\documents\github\electrolab1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+
+1604418058 source:c:\users\mauro\documents\github\electrolab1\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+
+1604376392 source:c:\users\mauro\documents\github\electrolab1\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"ventas.h"
+
+1604376392 c:\users\mauro\documents\github\electrolab1\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1604717022 source:c:\users\coti\desktop\electrolab1.7\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+
+1604609317 c:\users\coti\desktop\electrolab1.7\vendedor.h
+	"Fecha.h"
+
+1604376392 c:\users\coti\desktop\electrolab1.7\fecha.h
+
+1604715937 c:\users\coti\desktop\electrolab1.7\celular.h
+
+1604273840 c:\users\coti\desktop\electrolab1.7\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1604376392 source:c:\users\coti\desktop\electrolab1.7\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"detalleVenta.h"
+
+1604376392 c:\users\coti\desktop\electrolab1.7\detalleventa.h
+
+1604696758 source:c:\users\coti\desktop\electrolab1.7\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"Fecha.h"
+	"rlutil.h"
+
+1604715664 source:c:\users\coti\desktop\electrolab1.7\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+
+1604710390 c:\users\coti\desktop\electrolab1.7\funciones.h
+	<windows.h>
+
+1604715937 source:c:\users\coti\desktop\electrolab1.7\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+
+1604376392 source:c:\users\coti\desktop\electrolab1.7\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"ventas.h"
+
+1604376392 c:\users\coti\desktop\electrolab1.7\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1604716609 source:c:\users\coti\desktop\electrolab1.7\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+
+1600896988 source:c:\users\coti\desktop\electrolab1.7\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1600896988 c:\users\coti\desktop\electrolab1.7\soutil.h
+
+1604718381 c:\users\mauro\documents\github\electrolab\soutil.h
+
+1604718381 source:c:\users\mauro\documents\github\electrolab\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1600896988 c:\users\coti\documents\github\electrolab\soutil.h
+
+1600896988 source:c:\users\coti\documents\github\electrolab\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1605561047 source:c:\users\coti\desktop\electrolab2.0\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+	"conio.h"
+
+1604718382 c:\users\coti\desktop\electrolab2.0\vendedor.h
+	"Fecha.h"
+
+1604376392 c:\users\coti\desktop\electrolab2.0\fecha.h
+
+1605533639 c:\users\coti\desktop\electrolab2.0\celular.h
+
+1604273840 c:\users\coti\desktop\electrolab2.0\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1605534345 c:\users\coti\desktop\electrolab2.0\funciones.h
+	<windows.h>
+
+1605494593 source:c:\users\coti\desktop\electrolab2.0\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"detalleVenta.h"
+	"funciones.h"
+
+1605494593 c:\users\coti\desktop\electrolab2.0\detalleventa.h
+
+1604718381 source:c:\users\coti\desktop\electrolab2.0\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"Fecha.h"
+	"rlutil.h"
+
+1605561047 source:c:\users\coti\desktop\electrolab2.0\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+
+1604718381 c:\users\coti\desktop\electrolab2.0\soutil.h
+
+1605494593 c:\users\coti\desktop\electrolab2.0\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1605533639 source:c:\users\coti\desktop\electrolab2.0\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+
+1604718381 source:c:\users\coti\desktop\electrolab2.0\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1605552999 source:c:\users\coti\desktop\electrolab2.0\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+
+1605536442 source:c:\users\coti\desktop\electrolab2.0\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"ventas.h"
+	"detalleVenta.h"
+	"Fecha.h"
+
+1605585482 source:c:\users\coti\desktop\electrolab2.1\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+	"conio.h"
+
+1605624733 c:\users\coti\desktop\electrolab2.1\vendedor.h
+	"Fecha.h"
+
+1604376392 c:\users\coti\desktop\electrolab2.1\fecha.h
+
+1605533639 c:\users\coti\desktop\electrolab2.1\celular.h
+
+1604273840 c:\users\coti\desktop\electrolab2.1\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1605624733 c:\users\coti\desktop\electrolab2.1\funciones.h
+	<windows.h>
+
+1605494593 source:c:\users\coti\desktop\electrolab2.1\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"detalleVenta.h"
+	"funciones.h"
+
+1605494593 c:\users\coti\desktop\electrolab2.1\detalleventa.h
+
+1604718381 source:c:\users\coti\desktop\electrolab2.1\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"Fecha.h"
+	"rlutil.h"
+
+1605621407 source:c:\users\coti\desktop\electrolab2.1\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+
+1604718381 c:\users\coti\desktop\electrolab2.1\soutil.h
+
+1605494593 c:\users\coti\desktop\electrolab2.1\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1605621672 source:c:\users\coti\desktop\electrolab2.1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+
+1604718381 source:c:\users\coti\desktop\electrolab2.1\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1605626745 source:c:\users\coti\desktop\electrolab2.1\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+
+1605536442 source:c:\users\coti\desktop\electrolab2.1\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"ventas.h"
+	"detalleVenta.h"
+	"Fecha.h"
+
+1605494593 source:c:\users\mauro\documents\github\electrolab2.1\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"detalleVenta.h"
+	"funciones.h"
+
+1605494593 c:\users\mauro\documents\github\electrolab2.1\detalleventa.h
+
+1605534345 c:\users\mauro\documents\github\electrolab2.1\funciones.h
+	<windows.h>
+
+1604718381 source:c:\users\mauro\documents\github\electrolab2.1\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"Fecha.h"
+	"rlutil.h"
+
+1604376392 c:\users\mauro\documents\github\electrolab2.1\fecha.h
+
+1604273840 c:\users\mauro\documents\github\electrolab2.1\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1605584808 source:c:\users\mauro\documents\github\electrolab2.1\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+
+1604718382 c:\users\mauro\documents\github\electrolab2.1\vendedor.h
+	"Fecha.h"
+
+1605533639 c:\users\mauro\documents\github\electrolab2.1\celular.h
+
+1604718381 c:\users\mauro\documents\github\electrolab2.1\soutil.h
+
+1605494593 c:\users\mauro\documents\github\electrolab2.1\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1605533639 source:c:\users\mauro\documents\github\electrolab2.1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+
+1604718381 source:c:\users\mauro\documents\github\electrolab2.1\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1605552999 source:c:\users\mauro\documents\github\electrolab2.1\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+
+1605536442 source:c:\users\mauro\documents\github\electrolab2.1\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"ventas.h"
+	"detalleVenta.h"
+	"Fecha.h"
+
+1605584089 source:c:\users\mauro\documents\github\electrolab2.1\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+	"conio.h"
+
+1605639916 source:c:\users\coti\desktop\electrolab2.2\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+	"conio.h"
+
+1605624733 c:\users\coti\desktop\electrolab2.2\vendedor.h
+	"Fecha.h"
+
+1604376392 c:\users\coti\desktop\electrolab2.2\fecha.h
+
+1605533639 c:\users\coti\desktop\electrolab2.2\celular.h
+
+1604273840 c:\users\coti\desktop\electrolab2.2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1605641129 c:\users\coti\desktop\electrolab2.2\funciones.h
+	<windows.h>
+
+1605494593 source:c:\users\coti\desktop\electrolab2.2\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"detalleVenta.h"
+	"funciones.h"
+
+1605494593 c:\users\coti\desktop\electrolab2.2\detalleventa.h
+
+1604718381 source:c:\users\coti\desktop\electrolab2.2\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"Fecha.h"
+	"rlutil.h"
+
+1605641130 source:c:\users\coti\desktop\electrolab2.2\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+
+1604718381 c:\users\coti\desktop\electrolab2.2\soutil.h
+
+1605494593 c:\users\coti\desktop\electrolab2.2\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1605635079 source:c:\users\coti\desktop\electrolab2.2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+
+1604718381 source:c:\users\coti\desktop\electrolab2.2\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1605634712 source:c:\users\coti\desktop\electrolab2.2\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+
+1605536442 source:c:\users\coti\desktop\electrolab2.2\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"ventas.h"
+	"detalleVenta.h"
+	"Fecha.h"
+
+1604718381 source:c:\users\coti\desktop\electrolab2.3\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"Fecha.h"
+	"rlutil.h"
+
+1604376392 c:\users\coti\desktop\electrolab2.3\fecha.h
+
+1604273840 c:\users\coti\desktop\electrolab2.3\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1605666556 source:c:\users\coti\desktop\electrolab2.3\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+
+1605667586 c:\users\coti\desktop\electrolab2.3\funciones.h
+	<windows.h>
+
+1605624733 c:\users\coti\desktop\electrolab2.3\vendedor.h
+	"Fecha.h"
+
+1605533639 c:\users\coti\desktop\electrolab2.3\celular.h
+
+1604718381 c:\users\coti\desktop\electrolab2.3\soutil.h
+
+1605494593 c:\users\coti\desktop\electrolab2.3\detalleventa.h
+
+1605494593 c:\users\coti\desktop\electrolab2.3\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1605644730 source:c:\users\coti\desktop\electrolab2.3\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+
+1604718381 source:c:\users\coti\desktop\electrolab2.3\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1605634712 source:c:\users\coti\desktop\electrolab2.3\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+
+1605666504 source:c:\users\coti\desktop\electrolab2.3\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"ventas.h"
+	"detalleVenta.h"
+	"Fecha.h"
+
+1605643923 source:c:\users\coti\desktop\electrolab2.3\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+	"conio.h"
+
+1605666505 source:c:\users\coti\desktop\electrolab2.3\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"detalleVenta.h"
+	"funciones.h"
+	"rlutil.h"
+
+1605643923 source:c:\users\mauro\documents\github\electrolab2.4\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+	"conio.h"
+
+1605624733 c:\users\mauro\documents\github\electrolab2.4\vendedor.h
+	"Fecha.h"
+
+1604376392 c:\users\mauro\documents\github\electrolab2.4\fecha.h
+
+1605533639 c:\users\mauro\documents\github\electrolab2.4\celular.h
+
+1604273840 c:\users\mauro\documents\github\electrolab2.4\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1605671469 c:\users\mauro\documents\github\electrolab2.4\funciones.h
+	<windows.h>
+
+1605666505 source:c:\users\mauro\documents\github\electrolab2.4\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"detalleVenta.h"
+	"funciones.h"
+	"rlutil.h"
+
+1605494593 c:\users\mauro\documents\github\electrolab2.4\detalleventa.h
+
+1604718381 source:c:\users\mauro\documents\github\electrolab2.4\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"Fecha.h"
+	"rlutil.h"
+
+1605644730 source:c:\users\mauro\documents\github\electrolab2.4\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+
+1604718381 source:c:\users\mauro\documents\github\electrolab2.4\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1604718381 c:\users\mauro\documents\github\electrolab2.4\soutil.h
+
+1605634712 source:c:\users\mauro\documents\github\electrolab2.4\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+
+1605712657 source:c:\users\mauro\documents\github\electrolab2.4\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"ventas.h"
+	"detalleVenta.h"
+	"Fecha.h"
+
+1605713325 c:\users\mauro\documents\github\electrolab2.4\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1605713335 source:c:\users\mauro\documents\github\electrolab2.4\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+
+1605788928 source:c:\users\mauro\documents\github\electrolab2.6\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+	"conio.h"
+
+1605624733 c:\users\mauro\documents\github\electrolab2.6\vendedor.h
+	"Fecha.h"
+
+1604376392 c:\users\mauro\documents\github\electrolab2.6\fecha.h
+
+1605533639 c:\users\mauro\documents\github\electrolab2.6\celular.h
+
+1604273840 c:\users\mauro\documents\github\electrolab2.6\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1605790192 c:\users\mauro\documents\github\electrolab2.6\funciones.h
+	<windows.h>
+
+1605791664 source:c:\users\mauro\documents\github\electrolab2.6\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"detalleVenta.h"
+	"funciones.h"
+	"rlutil.h"
+
+1605494593 c:\users\mauro\documents\github\electrolab2.6\detalleventa.h
+
+1604718381 source:c:\users\mauro\documents\github\electrolab2.6\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"Fecha.h"
+	"rlutil.h"
+
+1605791927 source:c:\users\mauro\documents\github\electrolab2.6\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+
+1604718381 c:\users\mauro\documents\github\electrolab2.6\soutil.h
+
+1605755351 c:\users\mauro\documents\github\electrolab2.6\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1605644730 source:c:\users\mauro\documents\github\electrolab2.6\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+
+1604718381 source:c:\users\mauro\documents\github\electrolab2.6\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1605634712 source:c:\users\mauro\documents\github\electrolab2.6\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+
+1605790822 source:c:\users\mauro\documents\github\electrolab2.6\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"ventas.h"
+	"detalleVenta.h"
+	"Fecha.h"
+
+1604718381 source:c:\users\coti\desktop\electrolab2.8\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1604718381 c:\users\coti\desktop\electrolab2.8\soutil.h
+
+1604273840 c:\users\coti\desktop\electrolab2.8\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1605919386 source:c:\users\coti\desktop\electrolab2.8\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+
+1605624733 c:\users\coti\desktop\electrolab2.8\vendedor.h
+	"Fecha.h"
+
+1604376392 c:\users\coti\desktop\electrolab2.8\fecha.h
+
+1605533639 c:\users\coti\desktop\electrolab2.8\celular.h
+
+1605922413 c:\users\coti\desktop\electrolab2.8\funciones.h
+	<windows.h>
+
+1605923524 c:\users\coti\desktop\electrolab2.8\menu.h
+
+1605494593 c:\users\coti\desktop\electrolab2.8\detalleventa.h
+
+1605755351 c:\users\coti\desktop\electrolab2.8\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1605919386 source:c:\users\coti\desktop\electrolab2.8\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"detalleVenta.h"
+	"funciones.h"
+	"rlutil.h"
+	"menu.h"
+
+1605919386 source:c:\users\coti\desktop\electrolab2.8\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"Fecha.h"
+	"rlutil.h"
+	"menu.h"
+
+1605922412 source:c:\users\coti\desktop\electrolab2.8\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+
+1605919386 source:c:\users\coti\desktop\electrolab2.8\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+	"menu.h"
+
+1605919386 source:c:\users\coti\desktop\electrolab2.8\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+
+1605919386 source:c:\users\coti\desktop\electrolab2.8\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"ventas.h"
+	"detalleVenta.h"
+	"Fecha.h"
+	"menu.h"
+
+1605923524 source:c:\users\coti\desktop\electrolab2.8\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+
+1605983347 source:c:\users\coti\desktop\electrolab2.9\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+
+1605624733 c:\users\coti\desktop\electrolab2.9\vendedor.h
+	"Fecha.h"
+
+1604376392 c:\users\coti\desktop\electrolab2.9\fecha.h
+
+1605533639 c:\users\coti\desktop\electrolab2.9\celular.h
+
+1604273840 c:\users\coti\desktop\electrolab2.9\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1605984712 c:\users\coti\desktop\electrolab2.9\funciones.h
+	<windows.h>
+
+1605984712 c:\users\coti\desktop\electrolab2.9\menu.h
+
+1605919386 source:c:\users\coti\desktop\electrolab2.9\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"detalleVenta.h"
+	"funciones.h"
+	"rlutil.h"
+	"menu.h"
+
+1605494593 c:\users\coti\desktop\electrolab2.9\detalleventa.h
+
+1605919386 source:c:\users\coti\desktop\electrolab2.9\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"Fecha.h"
+	"rlutil.h"
+	"menu.h"
+
+1605919386 source:c:\users\coti\desktop\electrolab2.9\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+	"menu.h"
+
+1604718381 source:c:\users\coti\desktop\electrolab2.9\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1604718381 c:\users\coti\desktop\electrolab2.9\soutil.h
+
+1605919386 source:c:\users\coti\desktop\electrolab2.9\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+
+1605919386 source:c:\users\coti\desktop\electrolab2.9\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"ventas.h"
+	"detalleVenta.h"
+	"Fecha.h"
+	"menu.h"
+
+1605755351 c:\users\coti\desktop\electrolab2.9\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1605985331 source:c:\users\coti\desktop\electrolab2.9\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+
+1605984785 source:c:\users\coti\desktop\electrolab2.9\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+
+1606686366 source:c:\users\coti\desktop\electrolab3.0\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+
+1605624733 c:\users\coti\desktop\electrolab3.0\vendedor.h
+	"Fecha.h"
+
+1604376392 c:\users\coti\desktop\electrolab3.0\fecha.h
+
+1605533639 c:\users\coti\desktop\electrolab3.0\celular.h
+
+1604273840 c:\users\coti\desktop\electrolab3.0\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1606685947 c:\users\coti\desktop\electrolab3.0\funciones.h
+	<windows.h>
+
+1605985576 c:\users\coti\desktop\electrolab3.0\menu.h
+
+1606685932 source:c:\users\coti\desktop\electrolab3.0\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"detalleVenta.h"
+	"funciones.h"
+	"rlutil.h"
+	"menu.h"
+	"ventas.h"
+
+1605998544 c:\users\coti\desktop\electrolab3.0\detalleventa.h
+
+1606000409 c:\users\coti\desktop\electrolab3.0\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1606266223 source:c:\users\coti\desktop\electrolab3.0\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"Fecha.h"
+	"rlutil.h"
+	"menu.h"
+
+1606686639 source:c:\users\coti\desktop\electrolab3.0\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+
+1604718381 c:\users\coti\desktop\electrolab3.0\soutil.h
+
+1605919386 source:c:\users\coti\desktop\electrolab3.0\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+	"menu.h"
+
+1606004579 source:c:\users\coti\desktop\electrolab3.0\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+
+1604718381 source:c:\users\coti\desktop\electrolab3.0\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1605998179 source:c:\users\coti\desktop\electrolab3.0\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+
+1606687504 source:c:\users\coti\desktop\electrolab3.0\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"ventas.h"
+	"detalleVenta.h"
+	"Fecha.h"
+	"menu.h"
+	"funciones.h"
+	"rlutil.h"
+
+1606686366 source:c:\users\coti\desktop\electrolab3.1\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+
+1605624733 c:\users\coti\desktop\electrolab3.1\vendedor.h
+	"Fecha.h"
+
+1604376392 c:\users\coti\desktop\electrolab3.1\fecha.h
+
+1605533639 c:\users\coti\desktop\electrolab3.1\celular.h
+
+1604273840 c:\users\coti\desktop\electrolab3.1\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1606685947 c:\users\coti\desktop\electrolab3.1\funciones.h
+	<windows.h>
+
+1605985576 c:\users\coti\desktop\electrolab3.1\menu.h
+
+1606685932 source:c:\users\coti\desktop\electrolab3.1\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"detalleVenta.h"
+	"funciones.h"
+	"rlutil.h"
+	"menu.h"
+	"ventas.h"
+
+1605998544 c:\users\coti\desktop\electrolab3.1\detalleventa.h
+
+1606000409 c:\users\coti\desktop\electrolab3.1\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1606266223 source:c:\users\coti\desktop\electrolab3.1\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"Fecha.h"
+	"rlutil.h"
+	"menu.h"
+
+1606686639 source:c:\users\coti\desktop\electrolab3.1\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+
+1604718381 c:\users\coti\desktop\electrolab3.1\soutil.h
+
+1606765486 source:c:\users\coti\desktop\electrolab3.1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+	"menu.h"
+
+1606004579 source:c:\users\coti\desktop\electrolab3.1\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+
+1604718381 source:c:\users\coti\desktop\electrolab3.1\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1605998179 source:c:\users\coti\desktop\electrolab3.1\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+
+1606765368 source:c:\users\coti\desktop\electrolab3.1\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<vector>
+	"ventas.h"
+	"detalleVenta.h"
+	"Fecha.h"
+	"menu.h"
+	"funciones.h"
+	"rlutil.h"
+
+1606686366 source:c:\users\coti\desktop\electrolab3.3\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+
+1605624733 c:\users\coti\desktop\electrolab3.3\vendedor.h
+	"Fecha.h"
+
+1604376392 c:\users\coti\desktop\electrolab3.3\fecha.h
+
+1605533639 c:\users\coti\desktop\electrolab3.3\celular.h
+
+1604273840 c:\users\coti\desktop\electrolab3.3\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1606685947 c:\users\coti\desktop\electrolab3.3\funciones.h
+	<windows.h>
+
+1605985576 c:\users\coti\desktop\electrolab3.3\menu.h
+
+1606685932 source:c:\users\coti\desktop\electrolab3.3\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"detalleVenta.h"
+	"funciones.h"
+	"rlutil.h"
+	"menu.h"
+	"ventas.h"
+
+1605998544 c:\users\coti\desktop\electrolab3.3\detalleventa.h
+
+1606000409 c:\users\coti\desktop\electrolab3.3\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1606266223 source:c:\users\coti\desktop\electrolab3.3\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"Fecha.h"
+	"rlutil.h"
+	"menu.h"
+
+1606686639 source:c:\users\coti\desktop\electrolab3.3\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+
+1604718381 c:\users\coti\desktop\electrolab3.3\soutil.h
+
+1606765486 source:c:\users\coti\desktop\electrolab3.3\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+	"menu.h"
+
+1604718381 source:c:\users\coti\desktop\electrolab3.3\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1605998179 source:c:\users\coti\desktop\electrolab3.3\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+
+1606765879 source:c:\users\coti\desktop\electrolab3.3\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<vector>
+	"ventas.h"
+	"detalleVenta.h"
+	"Fecha.h"
+	"menu.h"
+	"funciones.h"
+	"rlutil.h"
+
+1606936302 source:c:\users\coti\desktop\electrolab3.3\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	"Backup.h"
+
+1606936836 source:c:\users\coti\desktop\electrolab3.3\backup.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Backup.h"
+	"ventas.h"
+	"detalleVenta.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"conio.h"
+
+1606936016 c:\users\coti\desktop\electrolab3.3\backup.h
+
+1607254725 source:c:\users\mauro\documents\github\electrolab3.3\backup.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Backup.h"
+	"ventas.h"
+	"detalleVenta.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"conio.h"
+	<windows.h>
+
+1606936016 c:\users\mauro\documents\github\electrolab3.3\backup.h
+
+1606000409 c:\users\mauro\documents\github\electrolab3.3\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1605533639 c:\users\mauro\documents\github\electrolab3.3\celular.h
+
+1605624733 c:\users\mauro\documents\github\electrolab3.3\vendedor.h
+	"Fecha.h"
+
+1604376392 c:\users\mauro\documents\github\electrolab3.3\fecha.h
+
+1605998544 c:\users\mauro\documents\github\electrolab3.3\detalleventa.h
+
+1604273840 c:\users\mauro\documents\github\electrolab3.3\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1607254519 source:c:\users\mauro\documents\github\electrolab3.3\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1607257186 c:\users\mauro\documents\github\electrolab3.3\funciones.h
+	<windows.h>
+
+1605985576 c:\users\mauro\documents\github\electrolab3.3\menu.h
+
+1607003953 source:c:\users\mauro\documents\github\electrolab3.3\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"detalleVenta.h"
+	"funciones.h"
+	"rlutil.h"
+	"menu.h"
+	"ventas.h"
+	<windows.h>
+
+1606266223 source:c:\users\mauro\documents\github\electrolab3.3\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"Fecha.h"
+	"rlutil.h"
+	"menu.h"
+
+1607257963 source:c:\users\mauro\documents\github\electrolab3.3\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1604718381 c:\users\mauro\documents\github\electrolab3.3\soutil.h
+
+1607003953 source:c:\users\mauro\documents\github\electrolab3.3\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+	"menu.h"
+	<windows.h>
+
+1607257269 source:c:\users\mauro\documents\github\electrolab3.3\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	"Backup.h"
+	<windows.h>
+
+1604718381 source:c:\users\mauro\documents\github\electrolab3.3\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1607257321 source:c:\users\mauro\documents\github\electrolab3.3\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+
+1607003953 source:c:\users\mauro\documents\github\electrolab3.3\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<vector>
+	"ventas.h"
+	"detalleVenta.h"
+	"Fecha.h"
+	"menu.h"
+	"funciones.h"
+	"rlutil.h"
+	<windows.h>
+
+1607254725 source:c:\users\mauro\documents\github\electrolab3.4\backup.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Backup.h"
+	"ventas.h"
+	"detalleVenta.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"conio.h"
+	<windows.h>
+
+1606936016 c:\users\mauro\documents\github\electrolab3.4\backup.h
+
+1607365819 c:\users\mauro\documents\github\electrolab3.4\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1605533639 c:\users\mauro\documents\github\electrolab3.4\celular.h
+
+1605624733 c:\users\mauro\documents\github\electrolab3.4\vendedor.h
+	"Fecha.h"
+
+1604376392 c:\users\mauro\documents\github\electrolab3.4\fecha.h
+
+1607370558 c:\users\mauro\documents\github\electrolab3.4\detalleventa.h
+
+1604273840 c:\users\mauro\documents\github\electrolab3.4\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1607254519 source:c:\users\mauro\documents\github\electrolab3.4\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1607366236 c:\users\mauro\documents\github\electrolab3.4\funciones.h
+	<windows.h>
+
+1605985576 c:\users\mauro\documents\github\electrolab3.4\menu.h
+
+1607372288 source:c:\users\mauro\documents\github\electrolab3.4\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"detalleVenta.h"
+	"funciones.h"
+	"rlutil.h"
+	"menu.h"
+	"ventas.h"
+	<windows.h>
+
+1606266223 source:c:\users\mauro\documents\github\electrolab3.4\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"Fecha.h"
+	"rlutil.h"
+	"menu.h"
+
+1607369599 source:c:\users\mauro\documents\github\electrolab3.4\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1604718381 c:\users\mauro\documents\github\electrolab3.4\soutil.h
+
+1607003953 source:c:\users\mauro\documents\github\electrolab3.4\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+	"menu.h"
+	<windows.h>
+
+1607369685 source:c:\users\mauro\documents\github\electrolab3.4\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	"Backup.h"
+	<windows.h>
+
+1604718381 source:c:\users\mauro\documents\github\electrolab3.4\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1607257321 source:c:\users\mauro\documents\github\electrolab3.4\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+
+1607371315 source:c:\users\mauro\documents\github\electrolab3.4\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<vector>
+	<iomanip>
+	"ventas.h"
+	"detalleVenta.h"
+	"Fecha.h"
+	"menu.h"
+	"funciones.h"
+	"rlutil.h"
+	<windows.h>
+
+1607611112 source:c:\users\mauro\documents\github\electrolab3.5\backup.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Backup.h"
+	"ventas.h"
+	"detalleVenta.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"conio.h"
+	<windows.h>
+
+1606936016 c:\users\mauro\documents\github\electrolab3.5\backup.h
+
+1607365819 c:\users\mauro\documents\github\electrolab3.5\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1605533639 c:\users\mauro\documents\github\electrolab3.5\celular.h
+
+1605624733 c:\users\mauro\documents\github\electrolab3.5\vendedor.h
+	"Fecha.h"
+
+1604376392 c:\users\mauro\documents\github\electrolab3.5\fecha.h
+
+1607370558 c:\users\mauro\documents\github\electrolab3.5\detalleventa.h
+
+1604273840 c:\users\mauro\documents\github\electrolab3.5\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1607254519 source:c:\users\mauro\documents\github\electrolab3.5\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1607366236 c:\users\mauro\documents\github\electrolab3.5\funciones.h
+	<windows.h>
+
+1605985576 c:\users\mauro\documents\github\electrolab3.5\menu.h
+
+1607372714 source:c:\users\mauro\documents\github\electrolab3.5\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"detalleVenta.h"
+	"funciones.h"
+	"rlutil.h"
+	"menu.h"
+	"ventas.h"
+	<windows.h>
+
+1606266223 source:c:\users\mauro\documents\github\electrolab3.5\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"Fecha.h"
+	"rlutil.h"
+	"menu.h"
+
+1607369599 source:c:\users\mauro\documents\github\electrolab3.5\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1604718381 c:\users\mauro\documents\github\electrolab3.5\soutil.h
+
+1607611244 source:c:\users\mauro\documents\github\electrolab3.5\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	"Backup.h"
+	<windows.h>
+
+1604718381 source:c:\users\mauro\documents\github\electrolab3.5\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1607257321 source:c:\users\mauro\documents\github\electrolab3.5\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+
+1607603692 source:c:\users\mauro\documents\github\electrolab3.5\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<vector>
+	<iomanip>
+	"ventas.h"
+	"detalleVenta.h"
+	"Fecha.h"
+	"menu.h"
+	"funciones.h"
+	"rlutil.h"
+	<windows.h>
+
+1607610890 source:c:\users\mauro\documents\github\electrolab3.5\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+	"menu.h"
+	<windows.h>
+	<locale.h>
+
+1607628955 source:c:\users\coti\desktop\electrolab3.6\backup.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Backup.h"
+	"ventas.h"
+	"detalleVenta.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"conio.h"
+	"funciones.h"
+	<windows.h>
+
+1607626340 c:\users\coti\desktop\electrolab3.6\backup.h
+
+1607365819 c:\users\coti\desktop\electrolab3.6\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1605533639 c:\users\coti\desktop\electrolab3.6\celular.h
+
+1605624733 c:\users\coti\desktop\electrolab3.6\vendedor.h
+	"Fecha.h"
+
+1604376392 c:\users\coti\desktop\electrolab3.6\fecha.h
+
+1607370558 c:\users\coti\desktop\electrolab3.6\detalleventa.h
+
+1604273840 c:\users\coti\desktop\electrolab3.6\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1607254519 source:c:\users\coti\desktop\electrolab3.6\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1607366236 c:\users\coti\desktop\electrolab3.6\funciones.h
+	<windows.h>
+
+1607628520 c:\users\coti\desktop\electrolab3.6\menu.h
+
+1607372714 source:c:\users\coti\desktop\electrolab3.6\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"detalleVenta.h"
+	"funciones.h"
+	"rlutil.h"
+	"menu.h"
+	"ventas.h"
+	<windows.h>
+
+1606266223 source:c:\users\coti\desktop\electrolab3.6\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"Fecha.h"
+	"rlutil.h"
+	"menu.h"
+
+1607369599 source:c:\users\coti\desktop\electrolab3.6\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1604718381 c:\users\coti\desktop\electrolab3.6\soutil.h
+
+1607610890 source:c:\users\coti\desktop\electrolab3.6\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+	"menu.h"
+	<windows.h>
+	<locale.h>
+
+1604718381 source:c:\users\coti\desktop\electrolab3.6\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1607257321 source:c:\users\coti\desktop\electrolab3.6\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+
+1607603692 source:c:\users\coti\desktop\electrolab3.6\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<vector>
+	<iomanip>
+	"ventas.h"
+	"detalleVenta.h"
+	"Fecha.h"
+	"menu.h"
+	"funciones.h"
+	"rlutil.h"
+	<windows.h>
+
+1607628704 source:c:\users\coti\desktop\electrolab3.6\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	"Backup.h"
+	<windows.h>
+
+1607629280 source:c:\users\coti\desktop\electrolab3.7\backup.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Backup.h"
+	"ventas.h"
+	"detalleVenta.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"conio.h"
+	"funciones.h"
+	<windows.h>
+
+1607626340 c:\users\coti\desktop\electrolab3.7\backup.h
+
+1607365819 c:\users\coti\desktop\electrolab3.7\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1605533639 c:\users\coti\desktop\electrolab3.7\celular.h
+
+1605624733 c:\users\coti\desktop\electrolab3.7\vendedor.h
+	"Fecha.h"
+
+1604376392 c:\users\coti\desktop\electrolab3.7\fecha.h
+
+1607370558 c:\users\coti\desktop\electrolab3.7\detalleventa.h
+
+1604273840 c:\users\coti\desktop\electrolab3.7\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1607366236 c:\users\coti\desktop\electrolab3.7\funciones.h
+	<windows.h>
+
+1607254519 source:c:\users\coti\desktop\electrolab3.7\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1607628520 c:\users\coti\desktop\electrolab3.7\menu.h
+
+1607372714 source:c:\users\coti\desktop\electrolab3.7\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"detalleVenta.h"
+	"funciones.h"
+	"rlutil.h"
+	"menu.h"
+	"ventas.h"
+	<windows.h>
+
+1606266223 source:c:\users\coti\desktop\electrolab3.7\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"Fecha.h"
+	"rlutil.h"
+	"menu.h"
+
+1607369599 source:c:\users\coti\desktop\electrolab3.7\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1604718381 c:\users\coti\desktop\electrolab3.7\soutil.h
+
+1607610890 source:c:\users\coti\desktop\electrolab3.7\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+	"menu.h"
+	<windows.h>
+	<locale.h>
+
+1604718381 source:c:\users\coti\desktop\electrolab3.7\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1607741901 source:c:\users\coti\desktop\electrolab3.8\backup.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Backup.h"
+	"ventas.h"
+	"detalleVenta.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"conio.h"
+	"funciones.h"
+	<windows.h>
+
+1607741901 c:\users\coti\desktop\electrolab3.8\backup.h
+
+1607365819 c:\users\coti\desktop\electrolab3.8\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1605533639 c:\users\coti\desktop\electrolab3.8\celular.h
+
+1605624733 c:\users\coti\desktop\electrolab3.8\vendedor.h
+	"Fecha.h"
+
+1604376392 c:\users\coti\desktop\electrolab3.8\fecha.h
+
+1607370558 c:\users\coti\desktop\electrolab3.8\detalleventa.h
+
+1604273840 c:\users\coti\desktop\electrolab3.8\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1607730900 c:\users\coti\desktop\electrolab3.8\funciones.h
+	<windows.h>
+
+1607734484 source:c:\users\coti\desktop\electrolab3.8\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1607730422 c:\users\coti\desktop\electrolab3.8\menu.h
+
+1607742857 source:c:\users\coti\desktop\electrolab3.8\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"detalleVenta.h"
+	"funciones.h"
+	"rlutil.h"
+	"menu.h"
+	"ventas.h"
+	<windows.h>
+
+1607729719 source:c:\users\coti\desktop\electrolab3.8\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"Fecha.h"
+	"rlutil.h"
+	"menu.h"
+
+1607743153 source:c:\users\coti\desktop\electrolab3.8\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1604718381 c:\users\coti\desktop\electrolab3.8\soutil.h
+
+1607713069 source:c:\users\coti\desktop\electrolab3.8\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+	"menu.h"
+	<windows.h>
+	<locale.h>
+
+1604718381 source:c:\users\coti\desktop\electrolab3.8\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1607742588 source:c:\users\coti\desktop\electrolab3.8\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<vector>
+	<iomanip>
+	"ventas.h"
+	"detalleVenta.h"
+	"Fecha.h"
+	"menu.h"
+	"funciones.h"
+	"rlutil.h"
+	<windows.h>
+
+1607743524 source:c:\users\coti\desktop\electrolab3.8\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	"Backup.h"
+	<windows.h>
+
+1607733811 source:c:\users\coti\desktop\electrolab3.8\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+
+1607741901 source:c:\users\mauro\documents\github\electrolab3.9\backup.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Backup.h"
+	"ventas.h"
+	"detalleVenta.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"conio.h"
+	"funciones.h"
+	<windows.h>
+
+1607741901 c:\users\mauro\documents\github\electrolab3.9\backup.h
+
+1607365819 c:\users\mauro\documents\github\electrolab3.9\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1605533639 c:\users\mauro\documents\github\electrolab3.9\celular.h
+
+1607779432 c:\users\mauro\documents\github\electrolab3.9\vendedor.h
+	"Fecha.h"
+
+1604376392 c:\users\mauro\documents\github\electrolab3.9\fecha.h
+
+1607370558 c:\users\mauro\documents\github\electrolab3.9\detalleventa.h
+
+1604273840 c:\users\mauro\documents\github\electrolab3.9\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1607730900 c:\users\mauro\documents\github\electrolab3.9\funciones.h
+	<windows.h>
+
+1607780007 source:c:\users\mauro\documents\github\electrolab3.9\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1607730422 c:\users\mauro\documents\github\electrolab3.9\menu.h
+
+1607777988 source:c:\users\mauro\documents\github\electrolab3.9\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"detalleVenta.h"
+	"funciones.h"
+	"rlutil.h"
+	"menu.h"
+	"ventas.h"
+	<windows.h>
+
+1607729719 source:c:\users\mauro\documents\github\electrolab3.9\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"Fecha.h"
+	"rlutil.h"
+	"menu.h"
+
+1607780928 source:c:\users\mauro\documents\github\electrolab3.9\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1604718381 c:\users\mauro\documents\github\electrolab3.9\soutil.h
+
+1607713069 source:c:\users\mauro\documents\github\electrolab3.9\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+	"menu.h"
+	<windows.h>
+	<locale.h>
+
+1607781770 source:c:\users\mauro\documents\github\electrolab3.9\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	"Backup.h"
+	<windows.h>
+
+1604718381 source:c:\users\mauro\documents\github\electrolab3.9\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1607779860 source:c:\users\mauro\documents\github\electrolab3.9\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+
+1607781302 source:c:\users\mauro\documents\github\electrolab3.9\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<vector>
+	<iomanip>
+	"ventas.h"
+	"detalleVenta.h"
+	"Fecha.h"
+	"menu.h"
+	"funciones.h"
+	"rlutil.h"
+	<windows.h>
+
+1607741901 source:c:\users\coti\desktop\electrolab4.0\backup.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Backup.h"
+	"ventas.h"
+	"detalleVenta.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"conio.h"
+	"funciones.h"
+	<windows.h>
+
+1607741901 c:\users\coti\desktop\electrolab4.0\backup.h
+
+1607365819 c:\users\coti\desktop\electrolab4.0\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1605533639 c:\users\coti\desktop\electrolab4.0\celular.h
+
+1607779432 c:\users\coti\desktop\electrolab4.0\vendedor.h
+	"Fecha.h"
+
+1604376392 c:\users\coti\desktop\electrolab4.0\fecha.h
+
+1607370558 c:\users\coti\desktop\electrolab4.0\detalleventa.h
+
+1604273840 c:\users\coti\desktop\electrolab4.0\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1607791420 c:\users\coti\desktop\electrolab4.0\funciones.h
+	<windows.h>
+
+1607791420 source:c:\users\coti\desktop\electrolab4.0\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1607730422 c:\users\coti\desktop\electrolab4.0\menu.h
+
+1607788132 source:c:\users\coti\desktop\electrolab4.0\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"detalleVenta.h"
+	"funciones.h"
+	"rlutil.h"
+	"menu.h"
+	"ventas.h"
+	<windows.h>
+
+1607729719 source:c:\users\coti\desktop\electrolab4.0\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"Fecha.h"
+	"rlutil.h"
+	"menu.h"
+
+1607788813 source:c:\users\coti\desktop\electrolab4.0\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1604718381 c:\users\coti\desktop\electrolab4.0\soutil.h
+
+1607713069 source:c:\users\coti\desktop\electrolab4.0\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+	"menu.h"
+	<windows.h>
+	<locale.h>
+
+1607791420 source:c:\users\coti\desktop\electrolab4.0\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	"Backup.h"
+	<windows.h>
+
+1604718381 source:c:\users\coti\desktop\electrolab4.0\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1607779860 source:c:\users\coti\desktop\electrolab4.0\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+
+1607791420 source:c:\users\coti\desktop\electrolab4.0\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<vector>
+	<iomanip>
+	"ventas.h"
+	"detalleVenta.h"
+	"Fecha.h"
+	"menu.h"
+	"funciones.h"
+	"rlutil.h"
+	<windows.h>
+
+1607741901 source:c:\users\coti\desktop\electrolab4.1\backup.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Backup.h"
+	"ventas.h"
+	"detalleVenta.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"conio.h"
+	"funciones.h"
+	<windows.h>
+
+1607741901 c:\users\coti\desktop\electrolab4.1\backup.h
+
+1607365819 c:\users\coti\desktop\electrolab4.1\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1605533639 c:\users\coti\desktop\electrolab4.1\celular.h
+
+1607779432 c:\users\coti\desktop\electrolab4.1\vendedor.h
+	"Fecha.h"
+
+1604376392 c:\users\coti\desktop\electrolab4.1\fecha.h
+
+1607370558 c:\users\coti\desktop\electrolab4.1\detalleventa.h
+
+1604273840 c:\users\coti\desktop\electrolab4.1\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1607791420 c:\users\coti\desktop\electrolab4.1\funciones.h
+	<windows.h>
+
+1607791420 source:c:\users\coti\desktop\electrolab4.1\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1607730422 c:\users\coti\desktop\electrolab4.1\menu.h
+
+1607788132 source:c:\users\coti\desktop\electrolab4.1\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"detalleVenta.h"
+	"funciones.h"
+	"rlutil.h"
+	"menu.h"
+	"ventas.h"
+	<windows.h>
+
+1607813596 source:c:\users\coti\desktop\electrolab4.1\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<iomanip>
+	"Fecha.h"
+	"rlutil.h"
+	"menu.h"
+
+1607788813 source:c:\users\coti\desktop\electrolab4.1\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1604718381 c:\users\coti\desktop\electrolab4.1\soutil.h
+
+1607713069 source:c:\users\coti\desktop\electrolab4.1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+	"menu.h"
+	<windows.h>
+	<locale.h>
+
+1607815637 source:c:\users\coti\desktop\electrolab4.1\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	"Backup.h"
+	<windows.h>
+
+1604718381 source:c:\users\coti\desktop\electrolab4.1\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1607815481 source:c:\users\coti\desktop\electrolab4.1\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+
+1607826531 source:c:\users\coti\desktop\electrolab4.1\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<vector>
+	<iomanip>
+	"ventas.h"
+	"detalleVenta.h"
+	"Fecha.h"
+	"menu.h"
+	"funciones.h"
+	"rlutil.h"
+	<windows.h>
+
+1607741901 source:c:\users\mauro\desktop\electrolab4.2\backup.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Backup.h"
+	"ventas.h"
+	"detalleVenta.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"conio.h"
+	"funciones.h"
+	<windows.h>
+
+1607741901 c:\users\mauro\desktop\electrolab4.2\backup.h
+
+1607365819 c:\users\mauro\desktop\electrolab4.2\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1605533639 c:\users\mauro\desktop\electrolab4.2\celular.h
+
+1607831616 c:\users\mauro\desktop\electrolab4.2\vendedor.h
+	"Fecha.h"
+
+1604376392 c:\users\mauro\desktop\electrolab4.2\fecha.h
+
+1607370558 c:\users\mauro\desktop\electrolab4.2\detalleventa.h
+
+1604273840 c:\users\mauro\desktop\electrolab4.2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1607791420 c:\users\mauro\desktop\electrolab4.2\funciones.h
+	<windows.h>
+
+1607791420 source:c:\users\mauro\desktop\electrolab4.2\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1607730422 c:\users\mauro\desktop\electrolab4.2\menu.h
+
+1607788132 source:c:\users\mauro\desktop\electrolab4.2\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"detalleVenta.h"
+	"funciones.h"
+	"rlutil.h"
+	"menu.h"
+	"ventas.h"
+	<windows.h>
+
+1607813596 source:c:\users\mauro\desktop\electrolab4.2\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<iomanip>
+	"Fecha.h"
+	"rlutil.h"
+	"menu.h"
+
+1607830893 source:c:\users\mauro\desktop\electrolab4.2\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1604718381 c:\users\mauro\desktop\electrolab4.2\soutil.h
+
+1607713069 source:c:\users\mauro\desktop\electrolab4.2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+	"menu.h"
+	<windows.h>
+	<locale.h>
+
+1607815637 source:c:\users\mauro\desktop\electrolab4.2\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	"Backup.h"
+	<windows.h>
+
+1604718381 source:c:\users\mauro\desktop\electrolab4.2\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1607831934 source:c:\users\mauro\desktop\electrolab4.2\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+
+1607826531 source:c:\users\mauro\desktop\electrolab4.2\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<vector>
+	<iomanip>
+	"ventas.h"
+	"detalleVenta.h"
+	"Fecha.h"
+	"menu.h"
+	"funciones.h"
+	"rlutil.h"
+	<windows.h>
+
+1607741901 source:c:\users\mauro\documents\github\electrolab4.3\backup.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Backup.h"
+	"ventas.h"
+	"detalleVenta.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"conio.h"
+	"funciones.h"
+	<windows.h>
+
+1607741901 c:\users\mauro\documents\github\electrolab4.3\backup.h
+
+1607365819 c:\users\mauro\documents\github\electrolab4.3\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1605533639 c:\users\mauro\documents\github\electrolab4.3\celular.h
+
+1607831616 c:\users\mauro\documents\github\electrolab4.3\vendedor.h
+	"Fecha.h"
+
+1604376392 c:\users\mauro\documents\github\electrolab4.3\fecha.h
+
+1607370558 c:\users\mauro\documents\github\electrolab4.3\detalleventa.h
+
+1604273840 c:\users\mauro\documents\github\electrolab4.3\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1607791420 c:\users\mauro\documents\github\electrolab4.3\funciones.h
+	<windows.h>
+
+1607791420 source:c:\users\mauro\documents\github\electrolab4.3\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1607730422 c:\users\mauro\documents\github\electrolab4.3\menu.h
+
+1607788132 source:c:\users\mauro\documents\github\electrolab4.3\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"detalleVenta.h"
+	"funciones.h"
+	"rlutil.h"
+	"menu.h"
+	"ventas.h"
+	<windows.h>
+
+1607813596 source:c:\users\mauro\documents\github\electrolab4.3\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<iomanip>
+	"Fecha.h"
+	"rlutil.h"
+	"menu.h"
+
+1607830893 source:c:\users\mauro\documents\github\electrolab4.3\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1604718381 c:\users\mauro\documents\github\electrolab4.3\soutil.h
+
+1607713069 source:c:\users\mauro\documents\github\electrolab4.3\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+	"menu.h"
+	<windows.h>
+	<locale.h>
+
+1607873587 source:c:\users\mauro\documents\github\electrolab4.3\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	"Backup.h"
+	<windows.h>
+
+1604718381 source:c:\users\mauro\documents\github\electrolab4.3\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1607873462 source:c:\users\mauro\documents\github\electrolab4.3\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+
+1607826531 source:c:\users\mauro\documents\github\electrolab4.3\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<vector>
+	<iomanip>
+	"ventas.h"
+	"detalleVenta.h"
+	"Fecha.h"
+	"menu.h"
+	"funciones.h"
+	"rlutil.h"
+	<windows.h>
+
+1607741901 source:c:\users\mauro\documents\github\electrolab4.4\backup.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Backup.h"
+	"ventas.h"
+	"detalleVenta.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"conio.h"
+	"funciones.h"
+	<windows.h>
+
+1607741901 c:\users\mauro\documents\github\electrolab4.4\backup.h
+
+1607365819 c:\users\mauro\documents\github\electrolab4.4\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1605533639 c:\users\mauro\documents\github\electrolab4.4\celular.h
+
+1607831616 c:\users\mauro\documents\github\electrolab4.4\vendedor.h
+	"Fecha.h"
+
+1604376392 c:\users\mauro\documents\github\electrolab4.4\fecha.h
+
+1607370558 c:\users\mauro\documents\github\electrolab4.4\detalleventa.h
+
+1604273840 c:\users\mauro\documents\github\electrolab4.4\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1607892485 c:\users\mauro\documents\github\electrolab4.4\funciones.h
+	<windows.h>
+
+1607894723 source:c:\users\mauro\documents\github\electrolab4.4\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1607730422 c:\users\mauro\documents\github\electrolab4.4\menu.h
+
+1607788132 source:c:\users\mauro\documents\github\electrolab4.4\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"detalleVenta.h"
+	"funciones.h"
+	"rlutil.h"
+	"menu.h"
+	"ventas.h"
+	<windows.h>
+
+1607892099 source:c:\users\mauro\documents\github\electrolab4.4\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<iomanip>
+	"Fecha.h"
+	"rlutil.h"
+	"menu.h"
+
+1607893833 source:c:\users\mauro\documents\github\electrolab4.4\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1604718381 c:\users\mauro\documents\github\electrolab4.4\soutil.h
+
+1607891955 source:c:\users\mauro\documents\github\electrolab4.4\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+	"menu.h"
+	<windows.h>
+	<locale.h>
+
+1607895150 source:c:\users\mauro\documents\github\electrolab4.4\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	"Backup.h"
+	<windows.h>
+
+1604718381 source:c:\users\mauro\documents\github\electrolab4.4\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1607893833 source:c:\users\mauro\documents\github\electrolab4.4\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+
+1607896365 source:c:\users\mauro\documents\github\electrolab4.4\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<vector>
+	<iomanip>
+	"ventas.h"
+	"detalleVenta.h"
+	"Fecha.h"
+	"menu.h"
+	"funciones.h"
+	"rlutil.h"
+	<windows.h>
+
+1607741901 source:c:\users\mauro\documents\github\electrolab4.5\backup.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Backup.h"
+	"ventas.h"
+	"detalleVenta.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"conio.h"
+	"funciones.h"
+	<windows.h>
+
+1607741901 c:\users\mauro\documents\github\electrolab4.5\backup.h
+
+1607365819 c:\users\mauro\documents\github\electrolab4.5\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1607947780 c:\users\mauro\documents\github\electrolab4.5\celular.h
+
+1607831616 c:\users\mauro\documents\github\electrolab4.5\vendedor.h
+	"Fecha.h"
+
+1604376392 c:\users\mauro\documents\github\electrolab4.5\fecha.h
+
+1607370558 c:\users\mauro\documents\github\electrolab4.5\detalleventa.h
+
+1604273840 c:\users\mauro\documents\github\electrolab4.5\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1607951668 c:\users\mauro\documents\github\electrolab4.5\funciones.h
+	<windows.h>
+
+1607948064 source:c:\users\mauro\documents\github\electrolab4.5\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1607730422 c:\users\mauro\documents\github\electrolab4.5\menu.h
+
+1607788132 source:c:\users\mauro\documents\github\electrolab4.5\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"detalleVenta.h"
+	"funciones.h"
+	"rlutil.h"
+	"menu.h"
+	"ventas.h"
+	<windows.h>
+
+1607892099 source:c:\users\mauro\documents\github\electrolab4.5\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<iomanip>
+	"Fecha.h"
+	"rlutil.h"
+	"menu.h"
+
+1607897447 source:c:\users\mauro\documents\github\electrolab4.5\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1604718381 c:\users\mauro\documents\github\electrolab4.5\soutil.h
+
+1607891955 source:c:\users\mauro\documents\github\electrolab4.5\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+	"menu.h"
+	<windows.h>
+	<locale.h>
+
+1607956523 source:c:\users\mauro\documents\github\electrolab4.5\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	"Backup.h"
+	<windows.h>
+
+1604718381 source:c:\users\mauro\documents\github\electrolab4.5\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1607957322 source:c:\users\mauro\documents\github\electrolab4.5\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+
+1607958481 source:c:\users\mauro\documents\github\electrolab4.5\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<vector>
+	<iomanip>
+	"ventas.h"
+	"detalleVenta.h"
+	"Fecha.h"
+	"menu.h"
+	"funciones.h"
+	"rlutil.h"
+	<windows.h>
+
+1607741901 source:c:\users\mauro\documents\github\electrolab4.6\backup.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Backup.h"
+	"ventas.h"
+	"detalleVenta.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"conio.h"
+	"funciones.h"
+	<windows.h>
+
+1607741901 c:\users\mauro\documents\github\electrolab4.6\backup.h
+
+1607365819 c:\users\mauro\documents\github\electrolab4.6\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1607947780 c:\users\mauro\documents\github\electrolab4.6\celular.h
+
+1607831616 c:\users\mauro\documents\github\electrolab4.6\vendedor.h
+	"Fecha.h"
+
+1604376392 c:\users\mauro\documents\github\electrolab4.6\fecha.h
+
+1607370558 c:\users\mauro\documents\github\electrolab4.6\detalleventa.h
+
+1604273840 c:\users\mauro\documents\github\electrolab4.6\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1607951668 c:\users\mauro\documents\github\electrolab4.6\funciones.h
+	<windows.h>
+
+1607948064 source:c:\users\mauro\documents\github\electrolab4.6\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1607730422 c:\users\mauro\documents\github\electrolab4.6\menu.h
+
+1607892099 source:c:\users\mauro\documents\github\electrolab4.6\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<iomanip>
+	"Fecha.h"
+	"rlutil.h"
+	"menu.h"
+
+1607897447 source:c:\users\mauro\documents\github\electrolab4.6\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1604718381 c:\users\mauro\documents\github\electrolab4.6\soutil.h
+
+1607891955 source:c:\users\mauro\documents\github\electrolab4.6\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+	"menu.h"
+	<windows.h>
+	<locale.h>
+
+1607956523 source:c:\users\mauro\documents\github\electrolab4.6\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	"Backup.h"
+	<windows.h>
+
+1604718381 source:c:\users\mauro\documents\github\electrolab4.6\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1607957322 source:c:\users\mauro\documents\github\electrolab4.6\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+
+1608042862 source:c:\users\mauro\documents\github\electrolab4.6\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"detalleVenta.h"
+	"funciones.h"
+	"rlutil.h"
+	"menu.h"
+	"ventas.h"
+	<windows.h>
+
+1608042594 source:c:\users\mauro\documents\github\electrolab4.6\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<vector>
+	<iomanip>
+	"ventas.h"
+	"detalleVenta.h"
+	"Fecha.h"
+	"menu.h"
+	"funciones.h"
+	"rlutil.h"
+	<windows.h>
+
+1607741901 source:c:\users\coti\desktop\electrolab4.7\backup.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Backup.h"
+	"ventas.h"
+	"detalleVenta.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"conio.h"
+	"funciones.h"
+	<windows.h>
+
+1607741901 c:\users\coti\desktop\electrolab4.7\backup.h
+
+1607365819 c:\users\coti\desktop\electrolab4.7\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1607947780 c:\users\coti\desktop\electrolab4.7\celular.h
+
+1607831616 c:\users\coti\desktop\electrolab4.7\vendedor.h
+	"Fecha.h"
+
+1604376392 c:\users\coti\desktop\electrolab4.7\fecha.h
+
+1607370558 c:\users\coti\desktop\electrolab4.7\detalleventa.h
+
+1604273840 c:\users\coti\desktop\electrolab4.7\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1607951668 c:\users\coti\desktop\electrolab4.7\funciones.h
+	<windows.h>
+
+1608050946 source:c:\users\coti\desktop\electrolab4.7\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1607730422 c:\users\coti\desktop\electrolab4.7\menu.h
+
+1608042862 source:c:\users\coti\desktop\electrolab4.7\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"detalleVenta.h"
+	"funciones.h"
+	"rlutil.h"
+	"menu.h"
+	"ventas.h"
+	<windows.h>
+
+1607892099 source:c:\users\coti\desktop\electrolab4.7\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<iomanip>
+	"Fecha.h"
+	"rlutil.h"
+	"menu.h"
+
+1607897447 source:c:\users\coti\desktop\electrolab4.7\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1604718381 c:\users\coti\desktop\electrolab4.7\soutil.h
+
+1607891955 source:c:\users\coti\desktop\electrolab4.7\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+	"menu.h"
+	<windows.h>
+	<locale.h>
+
+1608074285 source:c:\users\coti\desktop\electrolab4.7\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	"Backup.h"
+	<windows.h>
+
+1604718381 source:c:\users\coti\desktop\electrolab4.7\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1608050380 source:c:\users\coti\desktop\electrolab4.7\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+
+1608052764 source:c:\users\coti\desktop\electrolab4.7\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<vector>
+	<iomanip>
+	"ventas.h"
+	"detalleVenta.h"
+	"Fecha.h"
+	"menu.h"
+	"funciones.h"
+	"rlutil.h"
+	<windows.h>
+
+1607741901 source:c:\users\coti\desktop\electrolab4.8\backup.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Backup.h"
+	"ventas.h"
+	"detalleVenta.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"conio.h"
+	"funciones.h"
+	<windows.h>
+
+1607741901 c:\users\coti\desktop\electrolab4.8\backup.h
+
+1607365819 c:\users\coti\desktop\electrolab4.8\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1607947780 c:\users\coti\desktop\electrolab4.8\celular.h
+
+1607831616 c:\users\coti\desktop\electrolab4.8\vendedor.h
+	"Fecha.h"
+
+1604376392 c:\users\coti\desktop\electrolab4.8\fecha.h
+
+1607370558 c:\users\coti\desktop\electrolab4.8\detalleventa.h
+
+1604273840 c:\users\coti\desktop\electrolab4.8\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1607951668 c:\users\coti\desktop\electrolab4.8\funciones.h
+	<windows.h>
+
+1608050946 source:c:\users\coti\desktop\electrolab4.8\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1607730422 c:\users\coti\desktop\electrolab4.8\menu.h
+
+1608089758 source:c:\users\coti\desktop\electrolab4.8\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"detalleVenta.h"
+	"funciones.h"
+	"rlutil.h"
+	"menu.h"
+	"ventas.h"
+	<windows.h>
+
+1607892099 source:c:\users\coti\desktop\electrolab4.8\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<iomanip>
+	"Fecha.h"
+	"rlutil.h"
+	"menu.h"
+
+1608075051 source:c:\users\coti\desktop\electrolab4.8\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1604718381 c:\users\coti\desktop\electrolab4.8\soutil.h
+
+1608076070 source:c:\users\coti\desktop\electrolab4.8\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+	"menu.h"
+	<windows.h>
+	<locale.h>
+
+1608074285 source:c:\users\coti\desktop\electrolab4.8\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	"Backup.h"
+	<windows.h>
+
+1604718381 source:c:\users\coti\desktop\electrolab4.8\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1608084772 source:c:\users\coti\desktop\electrolab4.8\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+
+1608089490 source:c:\users\coti\desktop\electrolab4.8\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<vector>
+	<iomanip>
+	"ventas.h"
+	"detalleVenta.h"
+	"Fecha.h"
+	"menu.h"
+	"funciones.h"
+	"rlutil.h"
+	<windows.h>
+
+1607741901 source:c:\users\mauro\documents\github\electrolab4.8\backup.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Backup.h"
+	"ventas.h"
+	"detalleVenta.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"conio.h"
+	"funciones.h"
+	<windows.h>
+
+1607741901 c:\users\mauro\documents\github\electrolab4.8\backup.h
+
+1607365819 c:\users\mauro\documents\github\electrolab4.8\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1607947780 c:\users\mauro\documents\github\electrolab4.8\celular.h
+
+1607831616 c:\users\mauro\documents\github\electrolab4.8\vendedor.h
+	"Fecha.h"
+
+1604376392 c:\users\mauro\documents\github\electrolab4.8\fecha.h
+
+1607370558 c:\users\mauro\documents\github\electrolab4.8\detalleventa.h
+
+1604273840 c:\users\mauro\documents\github\electrolab4.8\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1608146917 c:\users\mauro\documents\github\electrolab4.8\funciones.h
+	<windows.h>
+
+1608149188 source:c:\users\mauro\documents\github\electrolab4.8\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1607730422 c:\users\mauro\documents\github\electrolab4.8\menu.h
+
+1608148739 source:c:\users\mauro\documents\github\electrolab4.8\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"detalleVenta.h"
+	"funciones.h"
+	"rlutil.h"
+	"menu.h"
+	"ventas.h"
+	<windows.h>
+
+1607892099 source:c:\users\mauro\documents\github\electrolab4.8\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<iomanip>
+	"Fecha.h"
+	"rlutil.h"
+	"menu.h"
+
+1608075051 source:c:\users\mauro\documents\github\electrolab4.8\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1604718381 c:\users\mauro\documents\github\electrolab4.8\soutil.h
+
+1608076070 source:c:\users\mauro\documents\github\electrolab4.8\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+	"menu.h"
+	<windows.h>
+	<locale.h>
+
+1608074285 source:c:\users\mauro\documents\github\electrolab4.8\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	"Backup.h"
+	<windows.h>
+
+1604718381 source:c:\users\mauro\documents\github\electrolab4.8\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1608084772 source:c:\users\mauro\documents\github\electrolab4.8\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+
+1608149620 source:c:\users\mauro\documents\github\electrolab4.8\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<vector>
+	<iomanip>
+	"ventas.h"
+	"detalleVenta.h"
+	"Fecha.h"
+	"menu.h"
+	"funciones.h"
+	"rlutil.h"
+	<windows.h>
+
+1607741901 source:c:\users\mauro\documents\github\electrolab4.9\backup.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Backup.h"
+	"ventas.h"
+	"detalleVenta.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"conio.h"
+	"funciones.h"
+	<windows.h>
+
+1607741901 c:\users\mauro\documents\github\electrolab4.9\backup.h
+
+1607365819 c:\users\mauro\documents\github\electrolab4.9\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1607947780 c:\users\mauro\documents\github\electrolab4.9\celular.h
+
+1607831616 c:\users\mauro\documents\github\electrolab4.9\vendedor.h
+	"Fecha.h"
+
+1604376392 c:\users\mauro\documents\github\electrolab4.9\fecha.h
+
+1607370558 c:\users\mauro\documents\github\electrolab4.9\detalleventa.h
+
+1604273840 c:\users\mauro\documents\github\electrolab4.9\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1608146917 c:\users\mauro\documents\github\electrolab4.9\funciones.h
+	<windows.h>
+
+1608165187 source:c:\users\mauro\documents\github\electrolab4.9\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1607730422 c:\users\mauro\documents\github\electrolab4.9\menu.h
+
+1608148739 source:c:\users\mauro\documents\github\electrolab4.9\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"detalleVenta.h"
+	"funciones.h"
+	"rlutil.h"
+	"menu.h"
+	"ventas.h"
+	<windows.h>
+
+1607892099 source:c:\users\mauro\documents\github\electrolab4.9\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<iomanip>
+	"Fecha.h"
+	"rlutil.h"
+	"menu.h"
+
+1608075051 source:c:\users\mauro\documents\github\electrolab4.9\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1604718381 c:\users\mauro\documents\github\electrolab4.9\soutil.h
+
+1608076070 source:c:\users\mauro\documents\github\electrolab4.9\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+	"menu.h"
+	<windows.h>
+	<locale.h>
+
+1608074285 source:c:\users\mauro\documents\github\electrolab4.9\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	"Backup.h"
+	<windows.h>
+
+1604718381 source:c:\users\mauro\documents\github\electrolab4.9\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1608084772 source:c:\users\mauro\documents\github\electrolab4.9\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+
+1608167136 source:c:\users\mauro\documents\github\electrolab4.9\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<vector>
+	<iomanip>
+	"ventas.h"
+	"detalleVenta.h"
+	"Fecha.h"
+	"menu.h"
+	"funciones.h"
+	"rlutil.h"
+	<windows.h>
+
+1607741901 source:c:\users\coti\desktop\electrolab4.9\backup.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Backup.h"
+	"ventas.h"
+	"detalleVenta.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"conio.h"
+	"funciones.h"
+	<windows.h>
+
+1607741901 c:\users\coti\desktop\electrolab4.9\backup.h
+
+1607365819 c:\users\coti\desktop\electrolab4.9\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1607947780 c:\users\coti\desktop\electrolab4.9\celular.h
+
+1607831616 c:\users\coti\desktop\electrolab4.9\vendedor.h
+	"Fecha.h"
+
+1604376392 c:\users\coti\desktop\electrolab4.9\fecha.h
+
+1607370558 c:\users\coti\desktop\electrolab4.9\detalleventa.h
+
+1604273840 c:\users\coti\desktop\electrolab4.9\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1608146917 c:\users\coti\desktop\electrolab4.9\funciones.h
+	<windows.h>
+
+1608168536 source:c:\users\coti\desktop\electrolab4.9\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1607730422 c:\users\coti\desktop\electrolab4.9\menu.h
+
+1608168536 source:c:\users\coti\desktop\electrolab4.9\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"detalleVenta.h"
+	"funciones.h"
+	"rlutil.h"
+	"menu.h"
+	"ventas.h"
+	<windows.h>
+
+1607892099 source:c:\users\coti\desktop\electrolab4.9\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<iomanip>
+	"Fecha.h"
+	"rlutil.h"
+	"menu.h"
+
+1608075051 source:c:\users\coti\desktop\electrolab4.9\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1604718381 c:\users\coti\desktop\electrolab4.9\soutil.h
+
+1608076070 source:c:\users\coti\desktop\electrolab4.9\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+	"menu.h"
+	<windows.h>
+	<locale.h>
+
+1608074285 source:c:\users\coti\desktop\electrolab4.9\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	"Backup.h"
+	<windows.h>
+
+1604718381 source:c:\users\coti\desktop\electrolab4.9\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1608084772 source:c:\users\coti\desktop\electrolab4.9\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+
+1608168536 source:c:\users\coti\desktop\electrolab4.9\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<vector>
+	<iomanip>
+	"ventas.h"
+	"detalleVenta.h"
+	"Fecha.h"
+	"menu.h"
+	"funciones.h"
+	"rlutil.h"
+	<windows.h>
+
+1607741901 source:c:\users\mauro\documents\github\electrolab5.0\backup.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Backup.h"
+	"ventas.h"
+	"detalleVenta.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"conio.h"
+	"funciones.h"
+	<windows.h>
+
+1607741901 c:\users\mauro\documents\github\electrolab5.0\backup.h
+
+1607365819 c:\users\mauro\documents\github\electrolab5.0\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1607947780 c:\users\mauro\documents\github\electrolab5.0\celular.h
+
+1607831616 c:\users\mauro\documents\github\electrolab5.0\vendedor.h
+	"Fecha.h"
+
+1604376392 c:\users\mauro\documents\github\electrolab5.0\fecha.h
+
+1607370558 c:\users\mauro\documents\github\electrolab5.0\detalleventa.h
+
+1604273840 c:\users\mauro\documents\github\electrolab5.0\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1608146917 c:\users\mauro\documents\github\electrolab5.0\funciones.h
+	<windows.h>
+
+1608168536 source:c:\users\mauro\documents\github\electrolab5.0\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1607730422 c:\users\mauro\documents\github\electrolab5.0\menu.h
+
+1608168536 source:c:\users\mauro\documents\github\electrolab5.0\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"detalleVenta.h"
+	"funciones.h"
+	"rlutil.h"
+	"menu.h"
+	"ventas.h"
+	<windows.h>
+
+1607892099 source:c:\users\mauro\documents\github\electrolab5.0\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<iomanip>
+	"Fecha.h"
+	"rlutil.h"
+	"menu.h"
+
+1608075051 source:c:\users\mauro\documents\github\electrolab5.0\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1604718381 c:\users\mauro\documents\github\electrolab5.0\soutil.h
+
+1608076070 source:c:\users\mauro\documents\github\electrolab5.0\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+	"menu.h"
+	<windows.h>
+	<locale.h>
+
+1608175167 source:c:\users\mauro\documents\github\electrolab5.0\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	"Backup.h"
+	<windows.h>
+
+1604718381 source:c:\users\mauro\documents\github\electrolab5.0\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1608084772 source:c:\users\mauro\documents\github\electrolab5.0\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+
+1608174549 source:c:\users\mauro\documents\github\electrolab5.0\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<vector>
+	<iomanip>
+	"ventas.h"
+	"detalleVenta.h"
+	"Fecha.h"
+	"menu.h"
+	"funciones.h"
+	"rlutil.h"
+	<windows.h>
+
+1607741901 source:c:\users\mauro\documents\github\electrolab5.1\backup.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Backup.h"
+	"ventas.h"
+	"detalleVenta.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"conio.h"
+	"funciones.h"
+	<windows.h>
+
+1607741901 c:\users\mauro\documents\github\electrolab5.1\backup.h
+
+1607365819 c:\users\mauro\documents\github\electrolab5.1\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1607947780 c:\users\mauro\documents\github\electrolab5.1\celular.h
+
+1607831616 c:\users\mauro\documents\github\electrolab5.1\vendedor.h
+	"Fecha.h"
+
+1604376392 c:\users\mauro\documents\github\electrolab5.1\fecha.h
+
+1607370558 c:\users\mauro\documents\github\electrolab5.1\detalleventa.h
+
+1604273840 c:\users\mauro\documents\github\electrolab5.1\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1608146917 c:\users\mauro\documents\github\electrolab5.1\funciones.h
+	<windows.h>
+
+1608168536 source:c:\users\mauro\documents\github\electrolab5.1\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1607730422 c:\users\mauro\documents\github\electrolab5.1\menu.h
+
+1608168536 source:c:\users\mauro\documents\github\electrolab5.1\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"detalleVenta.h"
+	"funciones.h"
+	"rlutil.h"
+	"menu.h"
+	"ventas.h"
+	<windows.h>
+
+1607892099 source:c:\users\mauro\documents\github\electrolab5.1\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<iomanip>
+	"Fecha.h"
+	"rlutil.h"
+	"menu.h"
+
+1608075051 source:c:\users\mauro\documents\github\electrolab5.1\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1604718381 c:\users\mauro\documents\github\electrolab5.1\soutil.h
+
+1608076070 source:c:\users\mauro\documents\github\electrolab5.1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+	"menu.h"
+	<windows.h>
+	<locale.h>
+
+1608175544 source:c:\users\mauro\documents\github\electrolab5.1\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	"Backup.h"
+	<windows.h>
+
+1604718381 source:c:\users\mauro\documents\github\electrolab5.1\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1608205060 source:c:\users\mauro\documents\github\electrolab5.1\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+
+1608205309 source:c:\users\mauro\documents\github\electrolab5.1\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<vector>
+	<iomanip>
+	"ventas.h"
+	"detalleVenta.h"
+	"Fecha.h"
+	"menu.h"
+	"funciones.h"
+	"rlutil.h"
+	<windows.h>
+
+1607741901 source:c:\users\coti\dropbox\utn\laboratorio ii\proyecto final\electrolab5.1\backup.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Backup.h"
+	"ventas.h"
+	"detalleVenta.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"conio.h"
+	"funciones.h"
+	<windows.h>
+
+1607741901 c:\users\coti\dropbox\utn\laboratorio ii\proyecto final\electrolab5.1\backup.h
+
+1607365819 c:\users\coti\dropbox\utn\laboratorio ii\proyecto final\electrolab5.1\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1607947780 c:\users\coti\dropbox\utn\laboratorio ii\proyecto final\electrolab5.1\celular.h
+
+1607831616 c:\users\coti\dropbox\utn\laboratorio ii\proyecto final\electrolab5.1\vendedor.h
+	"Fecha.h"
+
+1604376392 c:\users\coti\dropbox\utn\laboratorio ii\proyecto final\electrolab5.1\fecha.h
+
+1607370558 c:\users\coti\dropbox\utn\laboratorio ii\proyecto final\electrolab5.1\detalleventa.h
+
+1604273840 c:\users\coti\dropbox\utn\laboratorio ii\proyecto final\electrolab5.1\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1608146917 c:\users\coti\dropbox\utn\laboratorio ii\proyecto final\electrolab5.1\funciones.h
+	<windows.h>
+
+1608168536 source:c:\users\coti\dropbox\utn\laboratorio ii\proyecto final\electrolab5.1\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1607730422 c:\users\coti\dropbox\utn\laboratorio ii\proyecto final\electrolab5.1\menu.h
+
+1608168536 source:c:\users\coti\dropbox\utn\laboratorio ii\proyecto final\electrolab5.1\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"detalleVenta.h"
+	"funciones.h"
+	"rlutil.h"
+	"menu.h"
+	"ventas.h"
+	<windows.h>
+
+1607892099 source:c:\users\coti\dropbox\utn\laboratorio ii\proyecto final\electrolab5.1\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<iomanip>
+	"Fecha.h"
+	"rlutil.h"
+	"menu.h"
+
+1608075051 source:c:\users\coti\dropbox\utn\laboratorio ii\proyecto final\electrolab5.1\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1604718381 c:\users\coti\dropbox\utn\laboratorio ii\proyecto final\electrolab5.1\soutil.h
+
+1608076070 source:c:\users\coti\dropbox\utn\laboratorio ii\proyecto final\electrolab5.1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+	"menu.h"
+	<windows.h>
+	<locale.h>
+
+1608205408 source:c:\users\coti\dropbox\utn\laboratorio ii\proyecto final\electrolab5.1\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	"Backup.h"
+	<windows.h>
+
+1604718381 source:c:\users\coti\dropbox\utn\laboratorio ii\proyecto final\electrolab5.1\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1608205060 source:c:\users\coti\dropbox\utn\laboratorio ii\proyecto final\electrolab5.1\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+
+1608205309 source:c:\users\coti\dropbox\utn\laboratorio ii\proyecto final\electrolab5.1\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<vector>
+	<iomanip>
+	"ventas.h"
+	"detalleVenta.h"
+	"Fecha.h"
+	"menu.h"
+	"funciones.h"
+	"rlutil.h"
+	<windows.h>
+
+1607741901 source:c:\users\coti\dropbox\utn\2020\segundo cuatrimestre\laboratorio ii\proyecto final clases\electrolab5.1\backup.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Backup.h"
+	"ventas.h"
+	"detalleVenta.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"conio.h"
+	"funciones.h"
+	<windows.h>
+
+1607741901 c:\users\coti\dropbox\utn\2020\segundo cuatrimestre\laboratorio ii\proyecto final clases\electrolab5.1\backup.h
+
+1607365819 c:\users\coti\dropbox\utn\2020\segundo cuatrimestre\laboratorio ii\proyecto final clases\electrolab5.1\ventas.h
+	"celular.h"
+	"Vendedor.h"
+
+1607947780 c:\users\coti\dropbox\utn\2020\segundo cuatrimestre\laboratorio ii\proyecto final clases\electrolab5.1\celular.h
+
+1607831616 c:\users\coti\dropbox\utn\2020\segundo cuatrimestre\laboratorio ii\proyecto final clases\electrolab5.1\vendedor.h
+	"Fecha.h"
+
+1604376392 c:\users\coti\dropbox\utn\2020\segundo cuatrimestre\laboratorio ii\proyecto final clases\electrolab5.1\fecha.h
+
+1607370558 c:\users\coti\dropbox\utn\2020\segundo cuatrimestre\laboratorio ii\proyecto final clases\electrolab5.1\detalleventa.h
+
+1604273840 c:\users\coti\dropbox\utn\2020\segundo cuatrimestre\laboratorio ii\proyecto final clases\electrolab5.1\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1608146917 c:\users\coti\dropbox\utn\2020\segundo cuatrimestre\laboratorio ii\proyecto final clases\electrolab5.1\funciones.h
+	<windows.h>
+
+1608168536 source:c:\users\coti\dropbox\utn\2020\segundo cuatrimestre\laboratorio ii\proyecto final clases\electrolab5.1\celular.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"celular.h"
+	"rlutil.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1607730422 c:\users\coti\dropbox\utn\2020\segundo cuatrimestre\laboratorio ii\proyecto final clases\electrolab5.1\menu.h
+
+1608168536 source:c:\users\coti\dropbox\utn\2020\segundo cuatrimestre\laboratorio ii\proyecto final clases\electrolab5.1\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"detalleVenta.h"
+	"funciones.h"
+	"rlutil.h"
+	"menu.h"
+	"ventas.h"
+	<windows.h>
+
+1607892099 source:c:\users\coti\dropbox\utn\2020\segundo cuatrimestre\laboratorio ii\proyecto final clases\electrolab5.1\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<iomanip>
+	"Fecha.h"
+	"rlutil.h"
+	"menu.h"
+
+1608075051 source:c:\users\coti\dropbox\utn\2020\segundo cuatrimestre\laboratorio ii\proyecto final clases\electrolab5.1\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	<windows.h>
+
+1604718381 c:\users\coti\dropbox\utn\2020\segundo cuatrimestre\laboratorio ii\proyecto final clases\electrolab5.1\soutil.h
+
+1608205408 source:c:\users\coti\dropbox\utn\2020\segundo cuatrimestre\laboratorio ii\proyecto final clases\electrolab5.1\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"Vendedor.h"
+	"rlutil.h"
+	"celular.h"
+	"SOutil.h"
+	"detalleVenta.h"
+	"ventas.h"
+	"conio.h"
+	"menu.h"
+	"Backup.h"
+	<windows.h>
+
+1604718381 source:c:\users\coti\dropbox\utn\2020\segundo cuatrimestre\laboratorio ii\proyecto final clases\electrolab5.1\soutil.cpp
+	<iostream>
+	<cstring>
+	"SOutil.h"
+	"rlutil.h"
+
+1608205060 source:c:\users\coti\dropbox\utn\2020\segundo cuatrimestre\laboratorio ii\proyecto final clases\electrolab5.1\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedor.h"
+	"rlutil.h"
+	"Fecha.h"
+	"funciones.h"
+	"conio.h"
+	"menu.h"
+
+1608205309 source:c:\users\coti\dropbox\utn\2020\segundo cuatrimestre\laboratorio ii\proyecto final clases\electrolab5.1\ventas.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<vector>
+	<iomanip>
+	"ventas.h"
+	"detalleVenta.h"
+	"Fecha.h"
+	"menu.h"
+	"funciones.h"
+	"rlutil.h"
+	<windows.h>
+
+1611279564 source:c:\users\coti\dropbox\utn\2020\segundo cuatrimestre\laboratorio ii\proyecto final clases\electrolab5.1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Vendedor.h"
+	"conio.h"
+	"celular.h"
+	"menu.h"
+	<windows.h>
+	<locale.h>
+
